@@ -10,6 +10,8 @@ import Foundation
 
 class Shot{
     
+
+
     var id : Int!
     var title : String!
     var date :  String!
