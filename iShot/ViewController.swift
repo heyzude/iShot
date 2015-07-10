@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        jsonurl.text = 
+        jsonurl.text =  "hot hai"
         let api = DribbbleAPI()
         api.loadShots(nil)
     }
